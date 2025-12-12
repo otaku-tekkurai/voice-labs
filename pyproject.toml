@@ -1,0 +1,11 @@
+[project]
+name = "voice-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ffmpeg>=1.4",
+    "librosa>=0.11.0",
+    "soundfile>=0.13.1",
+]
